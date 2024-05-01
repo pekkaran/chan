@@ -1,0 +1,9 @@
+add_library(chan
+  list.c
+  list_vector.c
+  list_linked.c
+  map.c
+  map_bst.c
+  map_hash.c
+  map_naive.c
+)
